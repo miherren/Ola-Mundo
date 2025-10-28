@@ -3,3 +3,4 @@ Primeiro repositório do curso de Git e GitHub
 Repositório teste criado durante uma aula. 
 
 Essa linha eu adicionei diretamente no site. TESTE.
+Alteração TESTE.
